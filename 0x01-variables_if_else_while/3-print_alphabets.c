@@ -11,8 +11,13 @@ int main(void)
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 	{
-		letter = toupper(letter);
+		letter = tolower(letter);
 		putchar(letter);
+	}
+	for (letter = 'A'; letter <= 'Z'; letter++)
+	{
+		letter = toupper(letter);
+		putchar(letter)
 	}
 	putchar('\n');
 	return (0);
