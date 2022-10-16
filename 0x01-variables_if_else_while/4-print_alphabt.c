@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype>
+#include <ctype.h>
 /**
  * main - write alphabets in lower cases except q and e
  *
