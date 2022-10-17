@@ -9,7 +9,7 @@ int main(void)
 {
 	int num_16;
 
-	for (num_16 = 0; num_16 < 16; num_16++)
+	for (num_16 = '0'; num_16 < '16'; num_16++)
 	{
 		putchar(num_16);
 	}
