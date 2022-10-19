@@ -7,21 +7,21 @@
 
 int main(void)
 {
-	_putchar('1');
+	_putchar('_');
 
-	_putchar('q');
-
-	_putchar('r');
-
-	_putchar('s');
-
-	_putchar('d');
-
-	_putchar('o');
+	_putchar('p');
 
 	_putchar('u');
 
-	_putchar('i');
+	_putchar('t');
+
+	_putchar('c');
+
+	_putchar('h');
+
+	_putchar('a');
+
+	_putchar('r');
 
 	_putchar('\n');
 
