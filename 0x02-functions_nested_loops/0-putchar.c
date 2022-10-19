@@ -6,7 +6,7 @@
 
 int main(void)
 {
-	int office[10] = "_putchar";
+       _putchar office[10] = "_putchar";
 
 	int i;
 
