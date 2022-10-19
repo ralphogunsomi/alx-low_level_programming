@@ -8,13 +8,22 @@
 int main(void)
 {
 	_putchar('_');
-	_putchar('p');
+
+	_putchar('q');
+
+	_putchar('r');
+
+	_putchar('s');
+
+	_putchar('d');
+
+	_putchar('o');
+
 	_putchar('u');
-	_putchar('v');
-	_putchar('w');
-	_putchar('e');
-	_putchar('y');
-	_putchar('x');
+
+	_putchar('i');
+
 	_putchar('\n');
+
 	return (0);
 }
