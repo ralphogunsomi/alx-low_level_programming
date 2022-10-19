@@ -6,14 +6,23 @@
 
 int main(void)
 {
-       _putchar office[10] = "_putchar";
+	_putchar('_');
 
-	int i;
+       	_putchar('p');
 
-	for (i = 0; 1 < 8; i++)
-	{
-		_putchar(office[i]);
-	}
-	_putchar(10);
+	_putchar('u');
+
+	_putchar('v');
+
+	_putchar('w');
+
+	_putchar('e');
+
+	_putchar('y');
+
+	_putchar('x');
+
+	_putchar('\n');
+
 	return (0);
 }
