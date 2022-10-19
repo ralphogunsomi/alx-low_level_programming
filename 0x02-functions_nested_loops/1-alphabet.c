@@ -3,7 +3,7 @@
  * main - prints alphabets in lower cases.
  * Return: always 0
  */
-int main(void)
+void print_alphabet(void)
 {
 	char lett;
 
