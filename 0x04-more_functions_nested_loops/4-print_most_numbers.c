@@ -13,7 +13,7 @@ void print_most_numbers(void)
 		{
 			continue;
 		}
-		_purchar(number);
+		_putchar(number);
 	}
 	_putchar(10);
 }
