@@ -30,7 +30,8 @@ void puts_half(char *str)
  */
 int _strlen(char *s)
 {
-	inc = 0;
+	int inc = 0;
+	int count;
 
 	for (count = 0; s[count] != '\0'; count++)
 	inc++;
