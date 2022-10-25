@@ -1,10 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- *main - function that copies the string pointed to by src
- *@dest: destination
- *@src: src
- *@strcpy: strcpy
+ *_strcpy - copies the string pointed to by src, including \0.
+ *@src: pointer.
+ *@dest: pointer.
  *Return: always 0
  */
 char *_strcpy(char *dest, char *src)
